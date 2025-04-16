@@ -1,0 +1,103 @@
+CÃ³digo,MunicÃ­pio,Ano de instalaÃ§Ã£o,Clima,Latitude,Longitude,Altitude,DistÃ¢ncia de MaceiÃ³,DistÃ¢ncia por Rodovias de MaceiÃ³,Temperatura - MÃ¡xima,Temperatura - MÃ­nima,Tempo de Viagem de MaceiÃ³
+2700102,Ãgua Branca,1875,Tropical chuvoso com verÃ£o seco e inverno chuvoso,"- 09Âº 15' 39""","37Âº 56' 10""",570,248.29 km,295 km,32Âº,16Âº,4 horas 23 min
+2700201,Anadia,1801,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 41' 04""","36Âº 18' 15""",153,65.87 km,90.2 km,30Âº,22Âº,1 hora 25 min
+2700300,Arapiraca,1924,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 45' 09""","36Âº 39' 40""",264,105.45 km,136 km,37Âº,31Âº,2 horas 7 min
+2700409,Atalaia,1764,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 30' 07""","36Âº 01' 22""",54,36.31 km,47.6 km,30Âº,22Âº,50 min
+2700508,Barra de Santo AntÃ´nio,1960,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 24' 17""","35Âº 30' 26""",10,35.1 km,38.8 km,36Âº,23Âº,38 min
+2700607,Barra de SÃ£o Miguel,1963,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 50' 24""","35Âº 54' 28""",2,27.41 km,37.5 km,30Âº,22Âº,38 min
+2700706,Batalha,1947,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 40' 40""","37Âº 07' 29""",120,156.34 km,190 km,39Âº,22Âº,2 horas 49 min
+2700805,BelÃ©m,1962,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 34' 16""","36Âº 29' 32""",311,86.63 km,118 km,33Âº,24Âº,1 hora 57 min
+2700904,Belo Monte,1958,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 49' 42""","37Âº 16' 48""",30,173.16 km,217 km,38Âº,22Âº,3 horas 16 min
+2701001,Boca da Mata,1958,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 38' 29""","36Âº 13' 13""",132,55.3 km,76.4 km,37Âº,22Âº,1 hora 13 min
+2701100,Branquinha,1962,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 14' 44""","36Âº 00' 55""",100,57.31 km,68.3 km,34Âº,20Âº,1 hora 4 min
+2701209,Cacimbinhas,1958,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 24' 01""","36Âº 59' 25""",270,143.48 km,177 km,36Âº,20Âº,2 horas 37 min
+2701308,Cajueiro,1958,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 23' 48""","36Âº 09' 13""",102,56.45 km,68.4 km,29Âº,22Âº,1 hora 9 min
+2701357,Campestre,1997,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 08Âº 50' 45""","35Âº 34' 05""",200,90.62 km,118 km,34Âº,26Âº,1 hora 47 min
+2701407,Campo Alegre,1960,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 46' 55""","36Âº 21' 03""",176,71.97 km,96.7 km,37Âº,25Âº,1 hora 30 min
+2701506,Campo Grande,1960,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 57' 28""","36Âº 47' 30""",142,120.55 km,174 km,37Âº,21Âº,2 horas 40 min
+2701605,Canapi,1962,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 07' 01""","37Âº 36' 08""",342,216.41 km,256 km,37Âº,20Âº,3 horas 44 min
+2701704,Capela,1890,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 24' 27""","36Âº 04' 25""",84,48.76 km,58.7 km,34Âº,21Âº,59 min
+2701803,Carneiros,1962,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 28' 57""","37Âº 22' 38""",347,184.09 km,231 km,32Âº,20Âº,3 horas 24 min
+2701902,ChÃ£ Preta,1962,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 15' 19""","36Âº 17' 46""",463,78.2 km,101 km,33Âº,15Âº,1 hora 37 min
+2702009,CoitÃ© do NÃ³ia,1963,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 37' 56""","36Âº 34' 43""",280,96.54 km,126 km,38Âº,24Âº,2 horas 3 min
+2702108,ColÃ´nia Leopoldina,1901,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 08Âº 54' 32""","35Âº 43' 30""",140,81.95 km,116 km,39Âº,27Âº,1 hora 43 min
+2702207,Coqueiro Seco,1962,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 38' 18""","35Âº 48' 11""",31,10.05 km,32.9 km,28Âº,16Âº,34 min
+2702306,Coruripe,1866,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 10Âº 07' 32""","36Âº 10' 32""",16,73.57 km,92.8 km,34Âº,20Âº,1 hora 26 min
+2702355,CraÃ­bas,1982,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 37' 05""","36Âº 46' 05""",252,116.51 km,153 km,28Âº,18Âº,2 horas 20 min
+2702405,Delmiro Gouveia,1952,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 23' 19""","37Âº 59' 57""",256,253.13 km,298 km,38Âº,18Âº,4 horas 21 min
+2702504,Dois Riachos,1960,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 23' 33""","37Âº 06' 02""",245,155.2 km,190 km,35Âº,25Âº,2 horas 48 min
+2702553,Estrela de Alagoas,1993,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 23' 25""","36Âº 45' 36""",290,119.43 km,152 km,33Âº,21Âº,2 horas 17 min
+2702603,Feira Grande,1954,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 54' 01""","36Âº 40' 39""",220,109.73 km,150 km,37Âº,20Âº,2 horas 15 min
+2702702,Feliz Deserto,1960,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 10Âº 17' 31""","36Âº 18' 22""",6,96.87 km,122 km,32Âº,25Âº,1 hora 49 min
+2702801,Flexeiras,1960,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 11' 51""","35Âº 46' 51""",78,41.79 km,62.4 km,28Âº,18Âº,58 min
+2702900,Girau do Ponciano,1958,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 53' 03""","36Âº 49' 44""",244,125.88 km,162 km,38Âº,21Âº,2 horas 26 min
+2703007,Ibateguara,1957,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 08Âº 58' 21""","35Âº 56' 22""",505,78.83 km,118 km,28Âº,18Âº,1 hora 48 min
+2703106,Igaci,1957,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 32' 13""","36Âº 38' 01""",240,102.64 km,134 km,30Âº,18Âº,2 horas 9 min
+2703205,Igreja Nova,1890,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 10Âº 07' 31""","36Âº 39' 43""",14,116.89 km,164 km,37Âº,22Âº,2 horas 25 min
+2703304,Inhapi,1962,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 13' 17""","37Âº 44' 55""",410,228.9 km,273 km,32Âº,28Âº,3 horas 58 min
+2703403,JacarÃ© dos Homens,1957,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 38' 08""","37Âº 12' 17""",135,164.52 km,199 km,38Âº,18Âº,2 horas 57 min
+2703502,JacuÃ­pe,1958,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 08Âº 50' 30""","35Âº 27' 36""",74,94.24 km,125 km,29Âº,18Âº,1 hora 51 min
+2703601,Japaratinga,1960,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 05' 18""","35Âº 15' 30""",5,79.4 km,117 km,34Âº,21Âº,1 hora 46 min
+2703700,Jaramataia,1962,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 39' 34""","37Âº 00' 07""",164,142.23 km,176 km,38Âº,22Âº,2 horas 39 min
+2703759,JequiÃ¡ da Praia,2001,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 10Âº 00' 51""","36Âº 01' 47""",16,53.13 km,68.8 km,34Âº,23Âº,1 hora 4 min
+2703809,Joaquim Gomes,1962,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 08' 00""","35Âº 44' 54""",104,57.67 km,75 km,32Âº,20Âº,1 hora 10 min
+2703908,JundiÃ¡,1960,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 08Âº 56' 05""","35Âº 34' 25""",94,80.74 km,115 km,34Âº,26Âº,1 hora 43 min
+2704005,Junqueiro,1947,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 55' 31""","36Âº 28' 33""",175,89.38 km,121 km,35Âº,22Âº,1 hora 53 min
+2704104,Lagoa da Canoa,1962,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 49' 47""","36Âº 44' 16""",283,115.12 km,150 km,36Âº,22Âº,2 horas 16 min
+2704203,Limoeiro de Anadia,1882,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 44' 26""","36Âº 30' 10""",140,88.75 km,115 km,36Âº,25Âº,1 hora 46 min
+2704302,MaceiÃ³,1815,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 39' 57""","35Âº 44' 07""",16,0 km,0 km,29Âº,24Âº,0
+2704401,Major Isidoro,1949,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 31' 56""","36Âº 59' 06""",182,140.93 km,192 km,38Âº,18Âº,2 horas 50 min
+2704906,Mar Vermelho,1962,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 26' 51""","36Âº 23' 17""",542,77.91 km,106 km,26Âº,13Âº,1 hora 45 min
+2704500,Maragogi,1875,"Tropical chuvoso, de monÃ§Ã£o com verÃ£o seco","- 09Âº 00' 44""","35Âº 13' 21""",5,89.12 km,127 km,36Âº,18Âº,1 hora 54 min
+2704609,Maravilha,1958,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 14' 08""","37Âº 21' 00""",362,186.44 km,231 km,37Âº,23Âº,3 horas 24 min
+2704708,Marechal Deodoro,1636,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 42' 37""","35Âº 53' 42""",31,21.71 km,35.7 km,29Âº,22Âº,39 min
+2704807,Maribondo,1962,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 34' 38""","36Âº 18' 19""",157,65.96 km,88.5 km,34Âº,22Âº,1 hora 22 min
+2705002,Mata Grande,1837,Tropical chuvoso com verÃ£o seco e inverno chuvoso,"- 09Âº 07' 03""","37Âº 43' 56""",633,229.99 km,287 km,33Âº,15Âº,4 horas 11 min
+2705101,Matriz de Camaragibe,1958,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 09' 06""","35Âº 32' 00""",16,58.71 km,76 km,31Âº,18Âº,1 hora 11 min
+2705200,Messias,1962,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 23' 00""","35Âº 50' 30""",148,31.86 km,35.4 km,34Âº,22Âº,36 min
+2705309,Minador do NegrÃ£o,1962,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 18' 19""","36Âº 51' 53""",270,132.88 km,169 km,35Âº,14Âº,2 horas 36 min
+2705408,MonteirÃ³polis,1960,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 36' 10""","37Âº 14' 54""",228,169.3 km,206 km,32Âº,25Âº,3 horas 5 min
+2705507,Murici,1872,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 18' 24""","35Âº 56' 36""",82,46 km,54.7 km,34Âº,20Âº,53 min
+2705606,Novo Lino,1962,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 08Âº 54' 54""","35Âº 38' 48""",146,78.91 km,100 km,32Âº,22Âº,1 hora 29 min
+2705705,Olho d'Ãgua das Flores,1953,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 32' 10""","37Âº 17' 38""",286,174.56 km,213 km,36Âº,16Âº,3 horas 10 min
+2705804,Olho d'Ãgua do Casado,1962,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 30' 07""","37Âº 50' 02""",230,233.43 km,275 km,36Âº,26Âº,4 horas 2 min
+2705903,Olho d'Ãgua Grande,1962,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 10Âº 03' 30""","36Âº 49' 00""",118,129.05 km,176 km,29Âº,22Âº,2 horas 41 min
+2706000,OlivenÃ§a,1958,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 31' 07""","37Âº 11' 26""",231,163.84 km,210 km,35Âº,22Âº,3 horas 6 min
+2706109,Ouro Branco,1962,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 10' 00""","37Âº 21' 24""",380,189.14 km,238 km,33Âº,23Âº,3 horas 31 min
+2706208,Palestina,1962,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 40' 19""","37Âº 19' 45""",160,178.95 km,216 km,38Âº,25Âº,3 horas 24 min
+2706307,Palmeira dos Ãndios,1835,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 24' 26""","36Âº 37' 39""",342,105.03 km,137 km,38Âº,12Âº,2 horas 4 min
+2706406,PÃ£o de AÃ§Ãºcar,1854,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 44' 54""","37Âº 26' 12""",19,190.29 km,243 km,42Âº,26Âº,3 horas 44 min
+2706422,Pariconha,1993,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 15' 10""","38Âº 00' 17""",550,255.25 km,301 km,32Âº,22Âº,4 horas 27 min
+2706448,Paripueira,1993,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 27' 54""","35Âº 33' 06""",5,26.94 km,29.4 km,36Âº,23Âº,31 min
+2706505,Passo de Camaragibe,1852,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 14' 18""","35Âº 29' 36""",4,51.28 km,72.3 km,30Âº,22Âº,1 hora 6 min
+2706604,Paulo Jacinto,1953,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 21' 58""","36Âº 22' 11""",292,78.81 km,102 km,32Âº,14Âº,1 hora 38 min
+2706703,Penedo,1636,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 10Âº 17' 25""","36Âº 35' 11""",27,119.21 km,152 km,32Âº,22Âº,2 horas 19 min
+2706802,PiaÃ§abuÃ§u,1882,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 10Âº 24' 20""","36Âº 26' 04""",3,113.95 km,141 km,38Âº,26Âº,2 horas 7 min
+2706901,Pilar,1857,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 35' 50""","35Âº 57' 24""",13,27.49 km,37.7 km,37Âº,22Âº,40 min
+2707008,Pindoba,1957,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 28' 31""","36Âº 17' 24""",310,66.46 km,88.6 km,32Âº,18Âº,1 hora 37 min
+2707107,Piranhas,1887,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 37' 25""","37Âº 45' 24""",88,225.33 km,278 km,39Âº,20Âº,4 horas 3 min
+2707206,PoÃ§o das Trincheiras,1958,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 18' 45""","37Âº 17' 08""",292,177.27 km,218 km,35Âº,23Âº,3 horas 11 min
+2707305,Porto Calvo,1636,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 02' 42""","35Âº 23' 54""",54,74.72 km,98.7 km,30Âº,20Âº,1 hora 29 min
+2707404,Porto de Pedras,1815,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 09' 30""","35Âº 17' 42""",22,70.24 km,109 km,33Âº,19Âº,1 hora 41 min
+2707503,Porto Real do ColÃ©gio,1876,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 10Âº 11' 09""","36Âº 50' 24""",10,137.4 km,176 km,35Âº,23Âº,2 horas 36 min
+2707602,Quebrangulo,1872,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 19' 08""","36Âº 28' 16""",366,91.21 km,118 km,36Âº,14Âº,1 hora 53 min
+2707701,Rio Largo,1915,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 28' 42""","35Âº 51' 12""",39,23.9 km,29.8 km,33Âº,17Âº,35 min
+2707800,Roteiro,1963,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 49' 58""","35Âº 58' 40""",32,36.08 km,57.9 km,36Âº,22Âº,1 hora 1 min
+2707909,Santa Luzia do Norte,1962,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 36' 12""","35Âº 49' 21""",32,13.57 km,26.5 km,32Âº,18Âº,29 min
+2708006,Santana do Ipanema,1875,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 22' 42""","37Âº 14' 43""",250,171.85 km,207 km,39Âº,20Âº,3 horas 3 min
+2708105,Santana do MundaÃº,1960,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 10' 05""","36Âº 13' 20""",221,77.18 km,105 km,36Âº,18Âº,1 hora 38 min
+2708204,SÃ£o BrÃ¡s,1947,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 10Âº 07' 40""","36Âº 54' 02""",25,140.44 km,187 km,36Âº,27Âº,2 horas 48 min
+2708303,SÃ£o JosÃ© da Laje,1876,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 00' 35""","36Âº 03' 30""",256,80.26 km,99.1 km,36Âº,18Âº,1 hora 31 min
+2708402,SÃ£o JosÃ© da Tapera,1957,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 33' 30""","37Âº 22' 52""",255,184.08 km,223 km,37Âº,16Âº,3 horas 18 min
+2708501,SÃ£o LuÃ­s do Quitunde,1879,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 19' 06""","35Âº 33' 40""",4,40.3 km,53 km,33Âº,19Âº,50 min
+2708600,SÃ£o Miguel dos Campos,1832,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 46' 52""","36Âº 05' 37""",12,45.15 km,63.6 km,34Âº,24Âº,1 hora 3 min
+2708709,SÃ£o Miguel dos Milagres,1960,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 15' 56""","35Âº 22' 23""",1,56.16 km,93.6 km,35Âº,25Âº,1 hora 25 min
+2708808,SÃ£o SebastiÃ£o,1960,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 56' 01""","36Âº 33' 15""",201,97.75 km,131 km,36Âº,22Âº,1 hora 58 min
+2708907,Satuba,1960,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 33' 48""","35Âº 49' 28""",6,15.47 km,21.2 km,39Âº,17Âº,23 min
+2708956,Senador Rui Palmeira,1982,"Quente, semi-Ã¡rido, tipo estepe. EstaÃ§Ã£o chuvosa no outono/inverno","- 09Âº 27' 59""","37Âº 27' 25""",352,193.03 km,239 km,39Âº,20Âº,3 horas 32 min
+2709004,Tanque d'Arca,1962,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 31' 55""","36Âº 25' 58""",212,80.48 km,108 km,30Âº,24Âº,1 hora 41 min
+2709103,Taquarana,1962,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 38' 42""","36Âº 29' 50""",159,86.07 km,114 km,33Âº,22Âº,1 hora 45 min
+2709152,TeotÃ´nio Vilela,1987,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 54' 19""","36Âº 21' 10""",156,76.98 km,104 km,35Âº,20Âº,1 hora 37 min
+2709202,Traipu,1835,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 58' 14""","37Âº 00' 12""",10,146.45 km,190 km,40Âº,20Âº,2 horas 49 min
+2709301,UniÃ£o dos Palmares,1831,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 09' 46""","36Âº 01' 55""",155,64.53 km,78.7 km,28Âº,18Âº,1 hora 14 min
+2709400,ViÃ§osa,1831,Tropical chuvoso com verÃ£o seco. EstaÃ§Ã£o chuvosa no outono/inverno,"- 09Âº 22' 17""","36Âº 14' 27""",210,66.54 km,83.1 km,35Âº,22Âº,1 hora 21 min
