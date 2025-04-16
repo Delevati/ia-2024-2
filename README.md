@@ -2,6 +2,8 @@
 
 Implementação de algoritmos de busca (Dijkstra, A* e Dijkstra Bidirecional) para encontrar rotas entre cidades de Alagoas.
 
+Obs: Removi o requirements porque no v1 do path-finder.py as libs são todas padrão do py.
+
 ## Arquivos
 
 - `path-finder.py`: Implementação principal dos algoritmos
