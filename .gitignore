@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod
 *$py.class
+/code-in-class
+*.zip
 
 # Macos DS_Store
 .DS_Store
