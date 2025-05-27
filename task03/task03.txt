@@ -1,0 +1,17 @@
+Professor: Evandro Costa e Glauber Leite
+Disciplina: Inteligência Artificial
+1) Explique as semelhanças e diferenças entre noção de agente inteligente, conforme especificado 
+no capítulo 2 do livro AIMA, e noção de agente baseado em LLM e RAG. Faça uma discussão 
+conceitual e exemplique os conceitos envolvidos. Mostre e discute uma aplicação construída com 
+cada umas das duas abordagens.
+2) Apresente um problema e construa sua modelagem com redes bayesianas dinâmicas e com HMM 
+(Hidden Markov Model). Discuta os modelos apresentados e mostre como se faz inferência sobre cada 
+um modelos.
+3) Elabore e Implemente uma solução para o problema de gestão de riscos de projetos de software 
+(tal como já especificado na lista 2), adotando uma estratégia de programação em pares, tendo a 
+assistência de LLMs, usando um LLM de sua escolha (ChatGPT, Gemini, Github Copilot, Claude, 
+DeepSeek, Manus, …). Discuta o nível de assistência oferecido, enfatizando os possíveis ganhos de 
+produtividade e, eventuais dificuldades encontradas, isso relativamente à experiência obtida no 
+processo de solução deste problema na lista 2.
+Obs.: Das 3 questões propostas, escolha duas para solucionar.Cada questão a ser realizada vale de 
+0 a 5 pontos

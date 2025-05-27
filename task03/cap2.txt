@@ -1,0 +1,40 @@
+You are an expert in artificial intelligence and have read Chapter 2 (“Intelligent Agents”) of Stuart Russell & Peter Norvig’s Artificial Intelligence: A Modern Approach (4th ed.). Please produce a concise, structured summary that covers every key concept, definition, classification and example presented in that chapter, explicitly including:
+
+1. The formal definition of an agent:
+   - Agent as a mapping from percept sequences to actions (f: P*→A)
+   - The architecture of sensors and actuators
+2. The notion of rationality:
+   - Rational agent versus omniscient, perfect performance, and bounded rationality
+   - The performance measure Perf: H→ℝ over percept histories H
+   - Role of prior knowledge and percept sequence
+3. The agent function and agent program distinction
+4. The five classes of agent programs:
+   - Simple reflex agents
+   - Model-based reflex agents
+   - Goal-based agents
+   - Utility-based agents
+   - Learning agents
+5. The concept of a state:
+   - Internal state versus world state
+   - How model-based agents maintain state
+6. The performance evaluation framework:
+   - Definition and examples of performance measures
+   - Trade-offs (e.g. accuracy vs. speed)
+7. Properties of environments and their impact on agent design:
+   - Observability: fully vs. partially observable
+   - Deterministic vs. stochastic
+   - Episodic vs. sequential
+   - Static vs. dynamic (and semidynamic)
+   - Discrete vs. continuous
+   - Known vs. unknown
+8. Illustrative examples used in the chapter:
+   - Vacuum-cleaner world
+   - Simple reflex agent rule tables
+   - Model-based agent in vacuum-cleaner world
+   - Goal formulation example (e.g. path-finding)
+   - Utility function example (e.g. buying stock)
+   - Learning agent architecture diagram
+9. Any accompanying diagrams or figures (describe their content briefly)
+10. A brief synthesis of how these definitions and classifications lay the foundation for later chapters on search, planning, and learning
+
+Organize the summary with headings matching the chapter’s structure. Use clear, precise academic language and bullet points where appropriate.  
